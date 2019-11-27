@@ -1,0 +1,14 @@
+the-movies-dataset\
+local-test.ipynb
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+pca_allgenres.csv
+tsne_allgenres.csv
+regressionPreprocessing_beforeEncoding.csv
+clusterPreprocessing.csv
+clusteredratings.csv
+.ipynb_checkpoints\
